@@ -6,7 +6,9 @@ There are two projects:
 | Project| Description          |
 | ------------- |:-------------:|
 | Autohealer      |Autohealer uses zookeeper to maintain a minimum number of worker applications running. This keeps a watch on the zookeeper to check the number of running workers. When the number goes below the threshold, the Autohealer initiates worker applications |
-| flakyworker     | This is the node application which simulates a faulty application, which keeps crashing at random time      |
+| flaky-worker     | This is the node application which simulates a faulty application, which keeps crashing at random time      |
 
+<br />
+<br />
 
 ![Autohealer illustration](Slide1.jpg)
