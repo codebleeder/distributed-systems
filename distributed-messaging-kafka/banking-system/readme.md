@@ -1,6 +1,6 @@
 # Banking System
 
-Disclaimer: I do NOT own content to this. This is taken from an assignment from the [Distributed Systems course](https://www.udemy.com/course/distributed-systems-cloud-computing-with-java/learn/lecture/17205616#questions) by Michael Pogrebinsky
+Disclaimer: I do NOT own content to this. This is an assignment from the [Distributed Systems course](https://www.udemy.com/course/distributed-systems-cloud-computing-with-java/learn/lecture/17205616#questions) by Michael Pogrebinsky
 
 Each user has an account with our bank and was also issued a credit card to make purchases in stores.
 
